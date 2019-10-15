@@ -1,1 +1,1 @@
-# Stack
+# Stack Implemented as an array
